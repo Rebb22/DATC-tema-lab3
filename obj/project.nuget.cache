@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "yg+zaBxFikam4kVyEjwkMFfmE46tFU6w7gybjb/IPd220MefG8Yra2JEH5cMI8n4ZY2NuZ4d7K86ZOJw6P0EJg==",
+  "success": true,
+  "projectFilePath": "D:\\DSUsers\\uie23796\\Personal\\UPT\\DATC\\DATC-tema-lab3\\DATC-tema-lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\uie23796\\.nuget\\packages\\google.apis\\1.55.0\\google.apis.1.55.0.nupkg.sha512",
+    "C:\\Users\\uie23796\\.nuget\\packages\\google.apis.auth\\1.55.0\\google.apis.auth.1.55.0.nupkg.sha512",
+    "C:\\Users\\uie23796\\.nuget\\packages\\google.apis.core\\1.55.0\\google.apis.core.1.55.0.nupkg.sha512",
+    "C:\\Users\\uie23796\\.nuget\\packages\\google.apis.drive.v3\\1.55.0.2481\\google.apis.drive.v3.1.55.0.2481.nupkg.sha512",
+    "C:\\Users\\uie23796\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
